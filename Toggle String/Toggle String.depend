@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501702078 source:c:\not c\work\code_blocks_projects\toggle string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
